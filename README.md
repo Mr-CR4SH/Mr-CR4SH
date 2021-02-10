@@ -14,9 +14,6 @@
     <img src="https://img.shields.io/badge/🛰 CODE-CSS-blue?&logo=css" />
     <img src="https://img.shields.io/badge/🛸 CODE-C++-blue?&logo=c++" />
     <img src="https://img.shields.io/badge/CODE-RUBY-blue?&logo=ruby" />
-    
-    
-    
     <img src="https://img.shields.io/badge/🛡 CYBER SECURITY 🛡-blue?&logo=crime" />
     <img src="https://gpvc.arturio.dev/Mr-CR4SH" />
 </p>
