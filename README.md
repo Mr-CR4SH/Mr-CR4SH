@@ -38,7 +38,7 @@
 ### Let's connect!
 <p>
     <a href="https://" target="blank"><img src="https://img.shields.io/badge/Website-https://Mr.CR4SH.xyz-green?" /></a>
-    <a href="https://" target="blank"><img src="https://img.shields.io/badge/Mr.CR4SH-30302f?style=flat&logo=tweet" /></a>
+    <a href="https://" target="blank"><img src="https://img.shields.io/badge/Mr.CR4SH-30302f?style=flat&logo=twitter" /></a>
     <a href="https:/github.com/Mr.CR4SH" target="blank"><img src="https://img.shields.io/badge/Mr.CR4SH-30302f?style=flat&logo=github" /></a>
     <a href="https://" target="blank"><img src="https://img.shields.io/badge/@Mr.CR4SH-30302f?style=flat&logo=instagram" /></a>
     <a href="https://www.paypal.me/" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
